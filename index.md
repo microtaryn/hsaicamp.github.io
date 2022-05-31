@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to AI Summer Camp 2022!
+
 
 You can use the [editor on GitHub](https://github.com/microtaryn/hsaicamp.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
