@@ -3,7 +3,7 @@
 
 ## Overview
 As part of Project Hōkūlani, we aim to introduce artificial intelligence and machine learning concepts through image classification
-and object detection tools. Students will have the opportunity to explore popular no-code options including Teachable Machine and Plainsight,
+and object detection tools. Students will guided through examples using popular no-code options including Teachable Machine and Plainsight,
 with some basic coding in Python.
 
 ## Resources Folder
